@@ -46,6 +46,5 @@ $ npm install -g truffle
 $ truffle version
 ```
 ## Contributors
-<a href = "https://github.com/ATREAY/DTrace/contributors">
-  <img src = "https://contrib.rocks/image?repo = ATREAY/DTrace"/>
-</a>
+<img src = "https://contrib.rocks/image?repo = ATREAY/DTrace"/>
+
