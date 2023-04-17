@@ -49,4 +49,7 @@ $ truffle version
 <a href="https://github.com/ATREAY/DTrace/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ATREAY/DTrace" />
 </a>
+<a href="https://github.com/TusharPuranik/DTrace/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TusharPuranik/DTrace" />
+</a>
 
